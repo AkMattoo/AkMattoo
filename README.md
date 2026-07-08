@@ -28,7 +28,7 @@
 
 ## About Me
 
-I'm a third-year Electronics & Communication Engineering student at VIT Vellore who builds across the full stack — from production REST APIs and BI pipelines to deep learning research and quantitative trading systems. My engineering background shows up in how I work: I instrument everything, backtest before I trust a result, and ship with transaction costs, edge cases, and production reliability in mind rather than treating them as afterthoughts.
+I'm a final-year Electronics & Communication Engineering student at VIT Vellore who builds across the full stack — from production REST APIs and BI pipelines to deep learning research and quantitative trading systems. My engineering background shows up in how I work: I instrument everything, backtest before I trust a result, and ship with transaction costs, edge cases, and production reliability in mind rather than treating them as afterthoughts.
 
 On the **software engineering** side, I've shipped a client-facing analytics dashboard at HPE consolidating three production data sources, deployed a full-stack ride-sharing platform serving 200+ users with JWT-authenticated multi-role APIs, and built real-time sensor-to-dashboard pipelines spanning Arduino, Rust, and live frontends.
 
